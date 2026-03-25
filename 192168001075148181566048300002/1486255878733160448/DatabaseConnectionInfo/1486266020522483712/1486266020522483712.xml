@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_DBCONNECTIONINFO>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_driver><![CDATA[1285908503443054592]]></au_driver>
+        <au_creationDate><![CDATA[2026-03-25T07:30:33]]></au_creationDate>
+        <au_minPoolSize><![CDATA[3]]></au_minPoolSize>
+        <au_id><![CDATA[1486266020522483712]]></au_id>
+        <au_enablePooling><![CDATA[0]]></au_enablePooling>
+        <au_modifiedDate><![CDATA[2026-03-25T07:30:33]]></au_modifiedDate>
+        <au_checkoutTimeout><![CDATA[1000]]></au_checkoutTimeout>
+        <au_description><![CDATA[SS_DBInfo_VersionTest]]></au_description>
+        <au_dbSchemaName><![CDATA[]]></au_dbSchemaName>
+        <au_maxIdleTime><![CDATA[10]]></au_maxIdleTime>
+        <au_dbPassword><![CDATA[yh99XPTlHCMjCxFrsU+scg==]]></au_dbPassword>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_version><![CDATA[1]]></au_version>
+        <au_kerberosConfiguration><![CDATA[]]></au_kerberosConfiguration>
+        <au_url><![CDATA[jdbc:oracle:thin:@database-2-oracle.ciodldmyslmz.us-east-1.rds.amazonaws.com:1521:orcl]]></au_url>
+        <au_transactionIsolation><![CDATA[ReadCommitted]]></au_transactionIsolation>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_connectionPool><![CDATA[Hikari]]></au_connectionPool>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_entityName><![CDATA[SS_DBInfo_VersionTest]]></au_entityName>
+        <au_modifiedBy><![CDATA[IndigoUser:1486254951745839104]]></au_modifiedBy>
+        <au_userOwner><![CDATA[IndigoUser:1486254951745839104]]></au_userOwner>
+        <au_initialPoolSize><![CDATA[3]]></au_initialPoolSize>
+        <au_dbUser><![CDATA[PK_SOLUTION]]></au_dbUser>
+        <au_maxStatements><![CDATA[0]]></au_maxStatements>
+        <au_authType><![CDATA[Basic]]></au_authType>
+        <au_appType><![CDATA[sv_oracle_driver]]></au_appType>
+        <au_projectOwner><![CDATA[Project:1486255878733160448]]></au_projectOwner>
+        <au_maxPoolSize><![CDATA[10]]></au_maxPoolSize>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+    </AU_DBCONNECTIONINFO>
+    <columnInfo dbtype="4">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="3"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="3"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_appType" type="12"/>
+        <column name="au_driver" type="12"/>
+        <column name="au_url" type="12"/>
+        <column name="au_dbUser" type="12"/>
+        <column name="au_dbPassword" type="12"/>
+        <column name="au_enablePooling" type="3"/>
+        <column name="au_maxPoolSize" type="12"/>
+        <column name="au_minPoolSize" type="12"/>
+        <column name="au_initialPoolSize" type="12"/>
+        <column name="au_maxIdleTime" type="12"/>
+        <column name="au_checkoutTimeout" type="12"/>
+        <column name="au_dbSchemaName" type="12"/>
+        <column name="au_connectionPool" type="12"/>
+        <column name="au_maxStatements" type="12"/>
+        <column name="au_transactionIsolation" type="12"/>
+        <column name="au_authType" type="12"/>
+        <column name="au_kerberosConfiguration" type="12"/>
+    </columnInfo>
+</data>
