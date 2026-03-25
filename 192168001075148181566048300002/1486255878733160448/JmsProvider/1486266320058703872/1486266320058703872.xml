@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_JMSPROVIDER>
+        <driverJarFiles><![CDATA[geronimo-j2ee-management_1.1_spec-1.0.1_New (2) (1).jar,activemq-core-5.7.0_New (2) (1).jar]]></driverJarFiles>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_jmsServerType><![CDATA[Apache ActiveMQ]]></au_jmsServerType>
+        <au_id><![CDATA[1486266320058703872]]></au_id>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_modifiedDate><![CDATA[2026-03-25T07:31:44]]></au_modifiedDate>
+        <au_version><![CDATA[1]]></au_version>
+        <au_driverClassName><![CDATA[org.apache.activemq.jndi.ActiveMQInitialContextFactory]]></au_driverClassName>
+        <au_projectOwner><![CDATA[Project:1486255878733160448]]></au_projectOwner>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_modifiedBy><![CDATA[IndigoUser:1486254951745839104]]></au_modifiedBy>
+        <au_userName><![CDATA[]]></au_userName>
+        <au_jmsURL><![CDATA[tcp://172.177.207.77:61616]]></au_jmsURL>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_entityName><![CDATA[SS_JMSProvider_VersionTest]]></au_entityName>
+        <au_description><![CDATA[SS_JMSProvider_VersionTest]]></au_description>
+        <au_userOwner><![CDATA[IndigoUser:1486254951745839104]]></au_userOwner>
+        <au_queueConnectionFactory><![CDATA[QueueConnectionFactory]]></au_queueConnectionFactory>
+        <au_topicConnectionFactory><![CDATA[TopicConnectionFactory]]></au_topicConnectionFactory>
+        <au_password><![CDATA[]]></au_password>
+        <au_initialContextXML><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<initialcontext>
+</initialcontext>
+]]></au_initialContextXML>
+        <au_creationDate><![CDATA[2026-03-25T07:31:44]]></au_creationDate>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+    </AU_JMSPROVIDER>
+    <columnInfo dbtype="4">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="3"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="3"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_jmsURL" type="12"/>
+        <column name="driverJarFiles" type="12"/>
+        <column name="au_driverClassName" type="12"/>
+        <column name="au_queueConnectionFactory" type="12"/>
+        <column name="au_topicConnectionFactory" type="12"/>
+        <column name="au_initialContextXML" type="-1"/>
+        <column name="au_jmsServerType" type="12"/>
+        <column name="au_userName" type="12"/>
+        <column name="au_password" type="12"/>
+    </columnInfo>
+</data>
