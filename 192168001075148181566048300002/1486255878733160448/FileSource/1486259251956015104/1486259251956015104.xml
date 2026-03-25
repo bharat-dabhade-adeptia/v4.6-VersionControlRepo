@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <AU_FILESOURCE>
-        <au_description><![CDATA[SS_FileSrc_VersionTest]]></au_description>
-        <au_version><![CDATA[1]]></au_version>
         <au_permissionMask><![CDATA[770]]></au_permissionMask>
-        <au_filepath><![CDATA[/shared/atif/source]]></au_filepath>
-        <au_deleteOnSuccess><![CDATA[0]]></au_deleteOnSuccess>
-        <au_previousVersion><![CDATA[]]></au_previousVersion>
         <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_description><![CDATA[SS_FileSrc_VersionTest]]></au_description>
         <au_modifiedBy><![CDATA[IndigoUser:1486254951745839104]]></au_modifiedBy>
-        <au_id><![CDATA[1486259251956015104]]></au_id>
-        <au_modifiedDate><![CDATA[2026-03-25T07:03:39]]></au_modifiedDate>
-        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
-        <au_comments><![CDATA[]]></au_comments>
-        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
-        <au_fileName><![CDATA[string.txt]]></au_fileName>
         <au_projectOwner><![CDATA[Project:1486255878733160448]]></au_projectOwner>
+        <au_previousVersion><![CDATA[]]></au_previousVersion>
+        <au_modifiedDate><![CDATA[2026-03-25T09:19:41]]></au_modifiedDate>
+        <au_persistDataEnabled><![CDATA[0]]></au_persistDataEnabled>
+        <au_id><![CDATA[1486259251956015104]]></au_id>
+        <au_comments><![CDATA[]]></au_comments>
+        <au_revision><![CDATA[ec25ca9e59d8f94c1bb0a0672fdd9eea7169c8af]]></au_revision>
         <au_creationDate><![CDATA[2026-03-25T07:03:39]]></au_creationDate>
-        <au_revision><![CDATA[null]]></au_revision>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
         <au_entityName><![CDATA[SS_FileSrc_VersionTest]]></au_entityName>
-        <au_userOwner><![CDATA[IndigoUser:1486254951745839104]]></au_userOwner>
+        <au_deleteOnSuccess><![CDATA[0]]></au_deleteOnSuccess>
         <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_userOwner><![CDATA[IndigoUser:1486254951745839104]]></au_userOwner>
+        <au_filepath><![CDATA[/shared/atif/source]]></au_filepath>
+        <au_fileName><![CDATA[string.txt]]></au_fileName>
+        <au_version><![CDATA[1]]></au_version>
     </AU_FILESOURCE>
     <columnInfo dbtype="4">
         <column name="au_id" type="12"/>
