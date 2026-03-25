@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <AU_MAILEVENT>
+        <au_mailNotificationAction><![CDATA[null]]></au_mailNotificationAction>
+        <au_previousVersion><![CDATA[null]]></au_previousVersion>
+        <au_hostName><![CDATA[imap.gmail.com]]></au_hostName>
+        <au_senderEmail><![CDATA[atif.iqbal@adeptia.com]]></au_senderEmail>
+        <au_eventExpiryDateTime><![CDATA[]]></au_eventExpiryDateTime>
+        <au_protocol><![CDATA[imap]]></au_protocol>
+        <au_modifiedBy><![CDATA[IndigoUser:127000000001107055536473900001]]></au_modifiedBy>
+        <au_oauthAccountId><![CDATA[OAuthAccount:1329319424531959808]]></au_oauthAccountId>
+        <au_synchronized><![CDATA[0]]></au_synchronized>
+        <au_subjectCaseSensitive><![CDATA[1]]></au_subjectCaseSensitive>
+        <au_cdoMachine><![CDATA[]]></au_cdoMachine>
+        <au_pollingFrequency><![CDATA[59$s]]></au_pollingFrequency>
+        <au_encodingUsed><![CDATA[null]]></au_encodingUsed>
+        <au_modifiedDate><![CDATA[2026-02-09T10:44:20]]></au_modifiedDate>
+        <au_eventStartDateTime><![CDATA[]]></au_eventStartDateTime>
+        <au_mailContent><![CDATA[testing]]></au_mailContent>
+        <au_ignoreCase><![CDATA[1]]></au_ignoreCase>
+        <au_secure><![CDATA[0]]></au_secure>
+        <au_filterCriteria><![CDATA[testing.txt]]></au_filterCriteria>
+        <au_leaveCopyOnServer><![CDATA[1]]></au_leaveCopyOnServer>
+        <au_misFireInstructions><![CDATA[ignoreMisfire]]></au_misFireInstructions>
+        <au_version><![CDATA[1]]></au_version>
+        <au_creationDate><![CDATA[2024-10-08T05:52:59]]></au_creationDate>
+        <au_businessInterval><![CDATA[null]]></au_businessInterval>
+        <au_triggerInSequence><![CDATA[0]]></au_triggerInSequence>
+        <au_calendarType><![CDATA[null]]></au_calendarType>
+        <au_securityType><![CDATA[SSL]]></au_securityType>
+        <au_groupOwner><![CDATA[IndigoGroup:192168001075148181566048300002]]></au_groupOwner>
+        <au_mailSubject><![CDATA[testing]]></au_mailSubject>
+        <au_senderCaseSensitive><![CDATA[0]]></au_senderCaseSensitive>
+        <au_entityName><![CDATA[AI_MAIL_Event]]></au_entityName>
+        <au_activateFlag><![CDATA[1]]></au_activateFlag>
+        <au_mailpassword><![CDATA[zMUU6aEdmK7pFBheRpD1kP9S6BcgfOzluwwV9TCWWSA=]]></au_mailpassword>
+        <au_projectOwner><![CDATA[Default]]></au_projectOwner>
+        <au_mailUserId><![CDATA[acsectest@adeptia.com]]></au_mailUserId>
+        <au_creationMode><![CDATA[Simple]]></au_creationMode>
+        <au_revision><![CDATA[null]]></au_revision>
+        <au_id><![CDATA[1293088738559799296]]></au_id>
+        <au_processPerPoll><![CDATA[-1]]></au_processPerPoll>
+        <au_domain><![CDATA[]]></au_domain>
+        <au_processFlowNumber><![CDATA[0]]></au_processFlowNumber>
+        <au_permissionMask><![CDATA[770]]></au_permissionMask>
+        <au_activeVersion><![CDATA[1]]></au_activeVersion>
+        <au_port><![CDATA[993]]></au_port>
+        <au_authenticationType><![CDATA[Basic]]></au_authenticationType>
+        <au_userOwner><![CDATA[IndigoUser:1485971311382724608]]></au_userOwner>
+        <au_description><![CDATA[aaaa]]></au_description>
+        <AU_CONFIGMETADATA><![CDATA[null]]></AU_CONFIGMETADATA>
+        <au_comments><![CDATA[null]]></au_comments>
+        <au_accountId><![CDATA[null]]></au_accountId>
+        <au_receiverEmailIds><![CDATA[]]></au_receiverEmailIds>
+    </AU_MAILEVENT>
+    <columnInfo dbtype="4">
+        <column name="au_id" type="12"/>
+        <column name="au_version" type="12"/>
+        <column name="au_previousVersion" type="12"/>
+        <column name="au_activeVersion" type="3"/>
+        <column name="au_entityName" type="12"/>
+        <column name="au_userOwner" type="12"/>
+        <column name="au_groupOwner" type="12"/>
+        <column name="au_permissionMask" type="12"/>
+        <column name="au_description" type="12"/>
+        <column name="au_comments" type="12"/>
+        <column name="au_modifiedBy" type="12"/>
+        <column name="au_creationDate" type="93"/>
+        <column name="au_modifiedDate" type="93"/>
+        <column name="au_revision" type="12"/>
+        <column name="au_synchronized" type="3"/>
+        <column name="au_projectOwner" type="12"/>
+        <column name="au_activateFlag" type="3"/>
+        <column name="au_eventStartDateTime" type="12"/>
+        <column name="au_eventExpiryDateTime" type="12"/>
+        <column name="au_triggerInSequence" type="3"/>
+        <column name="au_calendarType" type="12"/>
+        <column name="au_businessInterval" type="12"/>
+        <column name="au_creationMode" type="12"/>
+        <column name="au_receiverEmailIds" type="12"/>
+        <column name="au_misFireInstructions" type="12"/>
+        <column name="au_processPerPoll" type="4"/>
+        <column name="au_hostName" type="12"/>
+        <column name="au_domain" type="12"/>
+        <column name="au_cdoMachine" type="12"/>
+        <column name="au_port" type="4"/>
+        <column name="au_mailUserId" type="12"/>
+        <column name="au_mailpassword" type="12"/>
+        <column name="au_filterCriteria" type="12"/>
+        <column name="au_senderEmail" type="12"/>
+        <column name="au_mailSubject" type="12"/>
+        <column name="au_pollingFrequency" type="12"/>
+        <column name="au_secure" type="3"/>
+        <column name="au_leaveCopyOnServer" type="3"/>
+        <column name="au_ignoreCase" type="3"/>
+        <column name="au_subjectCaseSensitive" type="3"/>
+        <column name="au_processFlowNumber" type="12"/>
+        <column name="au_protocol" type="12"/>
+        <column name="au_mailContent" type="12"/>
+        <column name="au_encodingUsed" type="12"/>
+        <column name="au_senderCaseSensitive" type="3"/>
+        <column name="au_accountId" type="12"/>
+        <column name="au_mailNotificationAction" type="12"/>
+        <column name="au_authenticationType" type="12"/>
+        <column name="au_oauthAccountId" type="12"/>
+        <column name="au_securityType" type="12"/>
+        <column name="AU_CONFIGMETADATA" type="12"/>
+    </columnInfo>
+</data>
